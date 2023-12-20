@@ -555,7 +555,7 @@ ul li::before {
   flex-wrap: wrap;
   justify-content: space-between;
   position: relative;
-  /* background-color: #333; */
+  background-color: #c23939 !important;
 }
 
 
@@ -726,7 +726,7 @@ footer .copyright{
 
 
   .footers{
-    background-color: #333;
+    background-color: #eae2e2;
   }
 
 
